@@ -21,6 +21,11 @@ Ensure you have Node.js and Rust installed on your system.
 
 The built executable will be located in `src-tauri/target/release/`.
 
+### Note for Windows Users
+Because this is a free and open-source tool, the executable is not signed with a paid Code Signing Certificate. When you run the `.exe` for the first time, Windows Defender SmartScreen may show a blue warning screen saying "Windows protected your PC". 
+
+This is entirely normal for unsigned open-source applications. To run the app, simply click **"More info"** and then **"Run anyway"**.
+
 ## Open Source & Contribution
 
 This is an open source project. You are completely free to fork this repository, modify it, and use it as you see fit. 
