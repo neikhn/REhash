@@ -1,4 +1,6 @@
-# REhash
+<p align="center">
+  <img src="public\Preview Image.png" alt="Preview Image" width="100%">
+</
 
 REhash is a lightning-fast, local Video Hash Modifier. It modifies the hash of video files by appending a null byte to the end of the file, allowing you to quickly change a file's hash without needing to re-encode the entire video.
 
