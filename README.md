@@ -4,15 +4,15 @@
 
 # REhash
 
-REhash is a lightning-fast, local Video Hash Modifier. It modifies the hash of video files by appending a null byte to the end of the file, allowing you to quickly change a file's hash without needing to re-encode the entire video.
+REhash is a fast, local Video Hash Modifier. It modifies the hash of video files by appending a null byte to the end of the file, allowing you to change a file's hash without needing to re-encode the video.
 
 ## Features
 
-- Blazing fast processing: Modifies the hash instantly.
+- Modifies the hash instantly.
 - No re-encoding: Appends a null byte, preserving the original video quality and format.
-- 100% Local: Files never leave your device. All processing is done locally.
-- Drag & Drop interface: Simple and intuitive user experience.
-- Supports multiple formats: .mp4, .avi, .mkv, .mov, .webm, and more.
+- Files never leave your device. All processing is done locally.
+- Drag & Drop interface.
+- Multiple formats: .mp4, .avi, .mkv, .mov, .webm, ...
 
 ## Installation & Build
 
